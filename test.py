@@ -1,0 +1,3 @@
+from default_database_pipeline import start_pipeline
+
+start_pipeline()
